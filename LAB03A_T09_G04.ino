@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////
 // Sistemas e Automação                        //  
-// (C) FEUP paco@fe.up.pt and asousa@fe.up.pt  //
+// (C) FEUP up201708979@edu.fe.up.pt  //
 /////////////////////////////////////////////////
 
 #include "sa.h"
